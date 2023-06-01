@@ -1,0 +1,54 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(228, 175, 157);
+    overflow-x: hidden;
+}
+h1, h2{
+    color: #7a4e33;
+    padding-top: 60px;
+}
+a{
+    color: #d9a78b;
+    
+}
+.nav{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    background-color: #403520;
+
+}
+.link1{
+    margin-left: 10px;
+    margin-right: 480px;
+}
+.link2{
+    margin-right: 480px;
+}
+.model_v, .test{
+    margin-top: 60px;
+    width: 550px;
+}
+.image{
+    text-align: center;
+    margin-top: 60px;
+}
+.image2{
+    width: 800px;
+}
+header{
+    margin-bottom: 60px;
+}
+.conclusao{
+    text-align: center;
+}
+.lupa{
+    width: 350px;
+}
+.ref{
+    text-align: center;
+}
+.joinha{
+    width: 300px;
+    margin-bottom: 100px;
+}
